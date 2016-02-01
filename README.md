@@ -1,2 +1,2 @@
 # portfolio
-Public Portfolio
+This is Thanh Bao Tran Public Portfolio.
